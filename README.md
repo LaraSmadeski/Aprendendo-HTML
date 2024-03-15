@@ -1,6 +1,6 @@
 # Aula sobre HTML
 
-Neste Stage1 eu aprendi os seguintes recursos:
+Neste Stage 02 eu aprendi os seguintes recursos:
 - O que é uma strong;
 - Como fazer referências a links;
 - Tipo de texto no HTML.
